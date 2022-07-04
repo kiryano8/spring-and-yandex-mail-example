@@ -1,0 +1,8 @@
+mail:
+    host: smtp.yandex.ru
+    port: 465
+    username: set-your-email
+    password: set-your-password
+    protocol: smtps
+    tls: true
+    auth: true
